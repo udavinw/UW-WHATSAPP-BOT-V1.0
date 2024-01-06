@@ -1,6 +1,6 @@
 {
-  "name": "Cheems-Bot-MD",
-  "version": "8.0.0",
+  "name": "𝘜𝘞 𝘛𝘌𝘊𝘏 𝘚𝘏𝘖𝘞 𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘉𝘖𝘛 𝘝 1.0",
+  "version": "1.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "main": "index.js",
   "type": "commonjs",
@@ -93,10 +93,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD8.git"
+    "url": "git+https://github.com/udavinw/UW-WHATSAPP-BOT-V1.0.git"
   },
   "bugs": {
-    "url": "https://github.com/DGXeon/CheemsBot-MD8/issues"
+    "url": "https://github.com/udavinw/UW-WHATSAPP-BOT-V1.0/issues"
   },
-  "homepage": "https://github.com/DGXeon/CheemsBot-MD8/#readme"
+  "homepage": "https://github.com/udavinw/UW-WHATSAPP-BOT-V1.0/#readme"
 }
