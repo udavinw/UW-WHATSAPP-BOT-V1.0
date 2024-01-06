@@ -1,3 +1,3 @@
 {
-	"name": "Cheems Bot Multi Device "
+	"name": "𝘜𝘞 𝘛𝘌𝘊𝘏 𝘚𝘏𝘖𝘞 𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗 𝘉𝘖𝘛 𝘝 1.0 "
 }
